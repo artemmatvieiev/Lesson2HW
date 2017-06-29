@@ -1,4 +1,4 @@
-let wantPlay = confirm("Здравствуйте! Хотите сыграть?")
+let wantPlay = confirm("Привет! Сыграем?")
 
 if (wantPlay) {
 	let name = prompt("Введите ваше имя")
